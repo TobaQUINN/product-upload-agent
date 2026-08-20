@@ -178,4 +178,16 @@ cython_debug/
 #  exclude from AI features like autocomplete and code analysis. Recommended for sensitive data
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
-.cursorindexingignore
+.cursorindexingignore\
+
+.venv/
+.env
+__pycache__/
+*.pyc
+
+# Local data / runtime artifacts
+input/
+output/
+
+# IDE settings
+.vscode/

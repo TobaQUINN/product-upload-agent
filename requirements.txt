@@ -1,0 +1,8 @@
+pydantic
+google-genai
+python-dotenv
+pillow
+ddgs
+fastapi
+uvicorn
+python-multipart
